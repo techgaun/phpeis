@@ -1,0 +1,1 @@
+Click <a href="index.php">HERE</a> to return to the homepage or click <a href="#" onclick="javascript:history.go(-1)">HERE</a> to return to the page previously you were in.
